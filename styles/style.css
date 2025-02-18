@@ -126,3 +126,49 @@ header .header-section {
     padding: 30px;
     border: 1px solid #dad8d8;    
 }
+
+/* Target Section */
+.target-section {
+    margin: 120px;
+    text-align: center;
+}
+.target-section h1 {
+    font-size: 35px;
+}
+
+.target-content {
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+.target-content .html {
+    width: 364px;
+    background-color: antiquewhite;
+    border-radius: 8px;
+    padding: 40px;
+}
+.target-content .html h3 {
+    text-decoration: underline;
+}
+
+.target-content .css {
+    width: 364px;
+    background-color: rgb(215, 240, 250);
+    border-radius: 8px;
+    padding: 40px;
+}
+.target-content .css h3 {
+    text-decoration: underline;
+}
+
+.target-content .jscript {
+    width: 364px;
+    background-color: rgb(250, 243, 221);
+    border-radius: 8px;
+    padding: 40px;
+}
+.target-content .jscript h3 {
+    text-decoration: underline;
+}
