@@ -172,3 +172,44 @@ header .header-section {
 .target-content .jscript h3 {
     text-decoration: underline;
 }
+
+/* Next target section */
+.next-target-section {
+    margin: 120px;
+    text-align: center;
+    justify-self: center;
+    width: 1140px;
+}
+.next-target-section h1 {
+    font-size: 35px;
+}
+.next-target-content img {
+    margin: 0px 30px;
+}
+.next-target-content {
+    text-align: left;
+}
+.next-target-content .reactJs {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    border: 1px solid #ebebeb;
+    border-radius: 15px;
+}
+
+.next-target-content .nodeJs {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    border: 1px solid #ebebeb;
+    border-radius: 15px;
+    margin: 20px 0px;
+}
+
+.next-target-content .mongoDB {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    border: 1px solid #ebebeb;
+    border-radius: 15px;
+}
