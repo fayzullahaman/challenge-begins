@@ -213,3 +213,42 @@ header .header-section {
     border: 1px solid #ebebeb;
     border-radius: 15px;
 }
+
+/* support-section */
+.support-section {
+    background-image: url("/assets/handshake.jpg");
+    text-align: center;
+    width: 1140px;    
+    justify-self: center;
+    height: 400px;
+    align-content: center;
+    color: white;
+}
+.support-section input {
+    width: 400px;
+    height: 18px;
+    border-radius: 10px;
+    border: none;
+    padding: 20px;
+    font-size: 18px;
+}
+.support-section button {
+    height: 58px;
+    width: 120px;
+    border-radius: 10px;
+    border: none;
+    padding: 20px;
+    font-size: 20px;
+}
+
+/* Footer Section */
+footer {
+    display: flex;
+    align-items: center;
+    gap: 450px;
+    background-color: #f3f3f3;
+    margin-top: 70px;
+    text-align: center;
+    justify-content: center;
+    height: 120px;
+}
